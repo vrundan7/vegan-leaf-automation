@@ -12,16 +12,17 @@ on:
     #   timezone: "Europe/Berlin"
     # - cron: "45 9 * * *"
     #   timezone: "Europe/Berlin"
-        #
+    #
     - cron: "0 13 * * *"            # lunch slot
       timezone: "Europe/Berlin"
-    - cron: "45 13 * * *"
+    - cron: "45 13 * * *"           # backup for the lunch slot
       timezone: "Europe/Berlin"
     #
     - cron: "0 18 * * *"            # evening slot (default)
       timezone: "Europe/Berlin"
     - cron: "45 18 * * *"           # backup for the evening slot
-      timezone: "Europe/Berlin"  workflow_dispatch:
+      timezone: "Europe/Berlin"
+  workflow_dispatch:
     inputs:
       mode:
         description: "dry-run renders only; check tests credentials; publish posts for real (needs PUBLISH_ENABLED=true)"
