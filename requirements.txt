@@ -1,0 +1,6 @@
+# Runtime + test dependencies (all free / open source). Constrained to tested major versions.
+Pillow>=11.0,<13
+requests>=2.32,<3
+pytest>=8.0,<10
+responses>=0.25,<1
+PyYAML>=6.0,<7      # tests only: parses the workflow file

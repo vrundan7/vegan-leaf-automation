@@ -1,0 +1,1388 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "vl-001",
+      "category": "quick_recipes",
+      "headline": "5-Ingredient Chickpea Curry",
+      "points": [
+        "Fry 1 onion with 2 tsp curry powder in a little oil",
+        "Add 1 can chickpeas and 1 can chopped tomatoes",
+        "Stir in 200 ml coconut milk and simmer 10 minutes",
+        "Wilt in spinach, season and serve with rice"
+      ],
+      "caption": "This is a weeknight curry made from cupboard staples. It's ready in about 20 minutes and serves 2–3.",
+      "call_to_action": "Save this for a busy evening.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganrecipes",
+        "#chickpeacurry",
+        "#easyvegan",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: 5-Ingredient Chickpea Curry. Point 1: Fry 1 onion with 2 tsp curry powder in a little oil. Point 2: Add 1 can chickpeas and 1 can chopped tomatoes. Point 3: Stir in 200 ml coconut milk and simmer 10 minutes. Point 4: Wilt in spinach, season and serve with rice.",
+      "source_url": null
+    },
+    {
+      "id": "vl-002",
+      "category": "food_facts",
+      "headline": "Where Vegans Get Vitamin B12",
+      "points": [
+        "B12 occurs naturally in animal foods only",
+        "Plant foods contain B12 only when fortified",
+        "Look for fortified plant drinks, cereals and nutritional yeast",
+        "Many vegans take a B12 supplement: ask a health professional"
+      ],
+      "caption": "B12 is the one nutrient every vegan should plan for from day one. Plant foods only provide it when it has been added, so fortified foods or a supplement are the reliable routes.",
+      "call_to_action": "Save this and check your plant milk label today.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#vitaminb12",
+        "#vegannutrition",
+        "#plantbased",
+        "#veganforbeginners"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Where Vegans Get Vitamin B12. Point 1: B12 occurs naturally in animal foods only. Point 2: Plant foods contain B12 only when fortified. Point 3: Look for fortified plant drinks, cereals and nutritional yeast. Point 4: Many vegans take a B12 supplement: ask a health professional.",
+      "source_url": "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/"
+    },
+    {
+      "id": "vl-003",
+      "category": "substitutions",
+      "headline": "Egg Swaps for Baking",
+      "points": [
+        "1 tbsp ground flaxseed + 3 tbsp water = 1 egg",
+        "3 tbsp aquafaba ≈ 1 egg white",
+        "60 g mashed banana works in sweet bakes",
+        "60 g unsweetened applesauce keeps cakes moist"
+      ],
+      "caption": "There's no single perfect egg swap, so pick one by its job. Flax binds, aquafaba whips, and banana or applesauce add moisture.",
+      "call_to_action": "Save this for your next bake.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#eggreplacement",
+        "#veganbaking",
+        "#veganswaps",
+        "#veganhacks"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Egg Swaps for Baking. Point 1: 1 tbsp ground flaxseed + 3 tbsp water = 1 egg. Point 2: 3 tbsp aquafaba ≈ 1 egg white. Point 3: 60 g mashed banana works in sweet bakes. Point 4: 60 g unsweetened applesauce keeps cakes moist.",
+      "source_url": null
+    },
+    {
+      "id": "vl-004",
+      "category": "grocery_tips",
+      "headline": "Spot Hidden Animal Ingredients",
+      "points": [
+        "Gelatin: made from animal collagen",
+        "Whey and casein: proteins from milk",
+        "Carmine (E120): a red dye made from insects",
+        "Shellac (E904): a glaze from lac insects"
+      ],
+      "caption": "Some animal-derived ingredients hide behind technical names. Learn these four and label-reading gets much faster.",
+      "call_to_action": "Save this for your next supermarket trip.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganshopping",
+        "#readthelabel",
+        "#vegantips",
+        "#veganforbeginners"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Spot Hidden Animal Ingredients. Point 1: Gelatin: made from animal collagen. Point 2: Whey and casein: proteins from milk. Point 3: Carmine (E120): a red dye made from insects. Point 4: Shellac (E904): a glaze from lac insects.",
+      "source_url": null
+    },
+    {
+      "id": "vl-005",
+      "category": "questions",
+      "headline": "Which Vegan Swap Surprised You?",
+      "points": [
+        "A: Oat milk in coffee",
+        "B: Aquafaba meringues",
+        "C: Lentil bolognese",
+        "D: Cashew cream sauce"
+      ],
+      "caption": "We all have that one swap that changed our minds. Which one was yours?",
+      "call_to_action": "Comment A, B, C or D.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganswaps",
+        "#veganfood",
+        "#plantbased",
+        "#vegancommunity"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Which Vegan Swap Surprised You?. Point 1: A: Oat milk in coffee. Point 2: B: Aquafaba meringues. Point 3: C: Lentil bolognese. Point 4: D: Cashew cream sauce.",
+      "source_url": null
+    },
+    {
+      "id": "vl-006",
+      "category": "ingredients",
+      "headline": "Meet Nutritional Yeast",
+      "points": [
+        "Deactivated yeast flakes with a cheesy, savoury flavour",
+        "Sprinkle on pasta, popcorn or roasted vegetables",
+        "Blend into creamy cashew sauces",
+        "Some brands are fortified with B12: check the label"
+      ],
+      "caption": "Nutritional yeast, or 'nooch', is the pantry shortcut to cheesy flavour without dairy. Start with a tablespoon and taste as you go.",
+      "call_to_action": "How do you use nooch? Share your favourite trick.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#nutritionalyeast",
+        "#veganpantry",
+        "#plantbasedcooking",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Meet Nutritional Yeast. Point 1: Deactivated yeast flakes with a cheesy, savoury flavour. Point 2: Sprinkle on pasta, popcorn or roasted vegetables. Point 3: Blend into creamy cashew sauces. Point 4: Some brands are fortified with B12: check the label.",
+      "source_url": "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/"
+    },
+    {
+      "id": "vl-007",
+      "category": "myths",
+      "headline": "Myth: Vegans Can't Get Enough Protein",
+      "points": [
+        "Myth: protein only comes from meat, eggs and dairy",
+        "Fact: beans, lentils, soy, nuts, seeds and grains all provide it",
+        "Mixing sources across the day covers your amino acids",
+        "Plan meals around a protein-rich plant food"
+      ],
+      "caption": "Protein is one of the most common worries for new vegans. With a varied diet built around legumes, soy, nuts and grains, it's very manageable.",
+      "call_to_action": "Which myth should we tackle next?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmyths",
+        "#plantbasedprotein",
+        "#vegannutrition",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Myth: Vegans Can't Get Enough Protein. Point 1: Myth: protein only comes from meat, eggs and dairy. Point 2: Fact: beans, lentils, soy, nuts, seeds and grains all provide it. Point 3: Mixing sources across the day covers your amino acids. Point 4: Plan meals around a protein-rich plant food.",
+      "source_url": "https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/"
+    },
+    {
+      "id": "vl-008",
+      "category": "meal_planning",
+      "headline": "Sunday Prep in 60 Minutes",
+      "points": [
+        "Cook a big pot of rice, quinoa or another grain",
+        "Roast two trays of mixed vegetables",
+        "Make one sauce or dressing",
+        "Prep a protein: baked tofu or a pot of beans"
+      ],
+      "caption": "One hour on Sunday means mix-and-match meals all week, and fewer 'what's for dinner?' moments.",
+      "call_to_action": "Save this for Sunday.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmealprep",
+        "#mealprep",
+        "#plantbased",
+        "#easyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Sunday Prep in 60 Minutes. Point 1: Cook a big pot of rice, quinoa or another grain. Point 2: Roast two trays of mixed vegetables. Point 3: Make one sauce or dressing. Point 4: Prep a protein: baked tofu or a pot of beans.",
+      "source_url": null
+    },
+    {
+      "id": "vl-009",
+      "category": "beginner_guides",
+      "headline": "Going Vegan? Start Here",
+      "points": [
+        "Start with meals you already love and swap one ingredient",
+        "Build a list of five go-to recipes",
+        "Stock the pantry basics: beans, grains, spices",
+        "Plan for vitamin B12 from day one"
+      ],
+      "caption": "You don't have to change everything overnight. Small, steady swaps add up to habits that last.",
+      "call_to_action": "Follow @veganleaf for a new tip every day.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganforbeginners",
+        "#goingvegan",
+        "#plantbased",
+        "#vegantips"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Going Vegan? Start Here. Point 1: Start with meals you already love and swap one ingredient. Point 2: Build a list of five go-to recipes. Point 3: Stock the pantry basics: beans, grains, spices. Point 4: Plan for vitamin B12 from day one.",
+      "source_url": "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/"
+    },
+    {
+      "id": "vl-010",
+      "category": "sustainability",
+      "headline": "What You Eat > How Far It Travels",
+      "points": [
+        "Transport is about 5% of food system emissions",
+        "Production, especially of animal foods, drives most emissions",
+        "Choosing more plant foods has the bigger impact",
+        "Local and seasonal is a bonus, not the main lever"
+      ],
+      "caption": "This is one of the most useful food facts for anyone who cares about climate. Data from Our World in Data.",
+      "call_to_action": "Save this and share it.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#sustainableeating",
+        "#climatefriendly",
+        "#plantbased",
+        "#ecofriendly"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: What You Eat > How Far It Travels. Point 1: Transport is about 5% of food system emissions. Point 2: Production, especially of animal foods, drives most emissions. Point 3: Choosing more plant foods has the bigger impact. Point 4: Local and seasonal is a bonus, not the main lever.",
+      "source_url": "https://ourworldindata.org/environmental-impacts-of-food",
+      "factual": true
+    },
+    {
+      "id": "vl-011",
+      "category": "quick_recipes",
+      "headline": "15-Minute Peanut Noodles",
+      "points": [
+        "Cook noodles for 2 portions",
+        "Whisk 2 tbsp peanut butter, 1 tbsp soy sauce, 1 tbsp lime juice",
+        "Add 1 tsp maple syrup and a splash of hot water",
+        "Toss with noodles and sliced veg, top with spring onion"
+      ],
+      "caption": "These creamy, tangy noodles are faster than a takeaway. Add crispy tofu if you want more protein.",
+      "call_to_action": "Tag someone you'd make this for.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganrecipes",
+        "#peanutnoodles",
+        "#quickmeals",
+        "#easyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: 15-Minute Peanut Noodles. Point 1: Cook noodles for 2 portions. Point 2: Whisk 2 tbsp peanut butter, 1 tbsp soy sauce, 1 tbsp lime juice. Point 3: Add 1 tsp maple syrup and a splash of hot water. Point 4: Toss with noodles and sliced veg, top with spring onion.",
+      "source_url": null
+    },
+    {
+      "id": "vl-012",
+      "category": "food_facts",
+      "headline": "Plant Iron: Pair It With Vitamin C",
+      "points": [
+        "Plant iron is absorbed less easily than iron from meat",
+        "Vitamin C foods eaten at the same meal help absorption",
+        "Try citrus fruit, tomatoes or other vitamin C-rich veg on the side",
+        "Keep tea and coffee away from iron-rich meals"
+      ],
+      "caption": "Lentils, beans, dark leafy greens and fortified cereals all bring iron. A squeeze of lemon or a side of tomatoes makes that iron easier for your body to use.",
+      "call_to_action": "What's your favourite iron-rich meal? Tell us below.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#plantbasediron",
+        "#vegannutrition",
+        "#plantbased",
+        "#healthyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Plant Iron: Pair It With Vitamin C. Point 1: Plant iron is absorbed less easily than iron from meat. Point 2: Vitamin C foods eaten at the same meal help absorption. Point 3: Try citrus fruit, tomatoes or other vitamin C-rich veg on the side. Point 4: Keep tea and coffee away from iron-rich meals.",
+      "source_url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    },
+    {
+      "id": "vl-013",
+      "category": "substitutions",
+      "headline": "Plant Milk: Pick by Purpose",
+      "points": [
+        "Coffee: 'barista' oat or soy versions froth best",
+        "Savoury sauces: choose unsweetened soy or oat",
+        "Baking: most plant milks swap in 1:1",
+        "Check labels for added calcium and B12"
+      ],
+      "caption": "The 'best' plant milk depends on what you're making. Keep one unsweetened carton for cooking and pick your favourite for drinking.",
+      "call_to_action": "Which plant milk is in your fridge?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#plantmilk",
+        "#oatmilk",
+        "#veganswaps",
+        "#dairyfree"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Plant Milk: Pick by Purpose. Point 1: Coffee: 'barista' oat or soy versions froth best. Point 2: Savoury sauces: choose unsweetened soy or oat. Point 3: Baking: most plant milks swap in 1:1. Point 4: Check labels for added calcium and B12.",
+      "source_url": null
+    },
+    {
+      "id": "vl-014",
+      "category": "grocery_tips",
+      "headline": "Read Labels Like a Pro",
+      "points": [
+        "Check the ingredients list, not just the front of the pack",
+        "'May contain milk' is about cross-contact, not a recipe ingredient",
+        "Look for a recognised vegan label or trademark",
+        "On plant drinks, check for added calcium and B12"
+      ],
+      "caption": "Front-of-pack claims are marketing, and the ingredients list tells you what's actually in the product. If you have an allergy, take 'may contain' warnings seriously.",
+      "call_to_action": "What label confuses you most? Ask below.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#readthelabel",
+        "#veganshopping",
+        "#vegantips",
+        "#foodlabels"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Read Labels Like a Pro. Point 1: Check the ingredients list, not just the front of the pack. Point 2: 'May contain milk' is about cross-contact, not a recipe ingredient. Point 3: Look for a recognised vegan label or trademark. Point 4: On plant drinks, check for added calcium and B12.",
+      "source_url": "https://www.gov.uk/understanding-food-labelling"
+    },
+    {
+      "id": "vl-015",
+      "category": "questions",
+      "headline": "Tofu: Where Do You Stand?",
+      "points": [
+        "A: Love it, eat it weekly",
+        "B: Only when it's crispy",
+        "C: Still learning to cook it",
+        "D: Not for me (yet)"
+      ],
+      "caption": "Tofu splits opinion more than almost any other vegan staple. Be honest!",
+      "call_to_action": "Comment your letter, and C voters, we have tips coming.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#tofu",
+        "#vegancommunity",
+        "#plantbased",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Tofu: Where Do You Stand?. Point 1: A: Love it, eat it weekly. Point 2: B: Only when it's crispy. Point 3: C: Still learning to cook it. Point 4: D: Not for me (yet).",
+      "source_url": null
+    },
+    {
+      "id": "vl-016",
+      "category": "ingredients",
+      "headline": "Tofu 101: Which One to Buy",
+      "points": [
+        "Firm or extra-firm: press, cube, then bake or stir-fry",
+        "Silken: blend into smoothies, sauces and desserts",
+        "Smoked: ready to slice into sandwiches and salads",
+        "Look for 'calcium sulfate' on the label for extra calcium"
+      ],
+      "caption": "Not all tofu is the same, and picking the right type is half the battle. Firm tofu is for cooking and silken is for blending.",
+      "call_to_action": "Save this before your next supermarket run.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#tofu",
+        "#veganpantry",
+        "#tofurecipes",
+        "#plantbasedprotein"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Tofu 101: Which One to Buy. Point 1: Firm or extra-firm: press, cube, then bake or stir-fry. Point 2: Silken: blend into smoothies, sauces and desserts. Point 3: Smoked: ready to slice into sandwiches and salads. Point 4: Look for 'calcium sulfate' on the label for extra calcium.",
+      "source_url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    },
+    {
+      "id": "vl-017",
+      "category": "myths",
+      "headline": "Myth: Vegan Diets Can't Be Healthy",
+      "points": [
+        "Myth: cutting out animal foods means missing out",
+        "Fact: the Academy of Nutrition and Dietetics says well-planned vegan diets are healthful",
+        "It says they suit all stages of life when well planned",
+        "The key words are 'well planned', including B12"
+      ],
+      "caption": "The Academy of Nutrition and Dietetics, a large US association of nutrition professionals, has published a position paper on vegetarian and vegan diets. Its conclusion is that appropriately planned diets are healthful and nutritionally adequate.",
+      "call_to_action": "Share this with someone who needs to see it.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmyths",
+        "#vegannutrition",
+        "#plantbased",
+        "#healthyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Myth: Vegan Diets Can't Be Healthy. Point 1: Myth: cutting out animal foods means missing out. Point 2: Fact: the Academy of Nutrition and Dietetics says well-planned vegan diets are healthful. Point 3: It says they suit all stages of life when well planned. Point 4: The key words are 'well planned', including B12.",
+      "source_url": "https://doi.org/10.1016/j.jand.2016.09.025"
+    },
+    {
+      "id": "vl-018",
+      "category": "meal_planning",
+      "headline": "The Mix-and-Match Bowl Formula",
+      "points": [
+        "Grain: rice, quinoa, noodles or couscous",
+        "Protein: tofu, tempeh, chickpeas or lentils",
+        "Veg: something raw plus something roasted",
+        "Sauce and crunch: tahini, peanut sauce, seeds or nuts"
+      ],
+      "caption": "Use this formula and you'll never need a recipe for lunch again. Change one element each day.",
+      "call_to_action": "Describe your dream bowl in the comments.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmealprep",
+        "#buddhabowl",
+        "#plantbased",
+        "#veganlunch"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: The Mix-and-Match Bowl Formula. Point 1: Grain: rice, quinoa, noodles or couscous. Point 2: Protein: tofu, tempeh, chickpeas or lentils. Point 3: Veg: something raw plus something roasted. Point 4: Sauce and crunch: tahini, peanut sauce, seeds or nuts.",
+      "source_url": null
+    },
+    {
+      "id": "vl-019",
+      "category": "beginner_guides",
+      "headline": "Build a Balanced Vegan Plate",
+      "points": [
+        "Fill half your plate with vegetables and fruit",
+        "A quarter with protein: beans, lentils, tofu or tempeh",
+        "A quarter with whole grains like rice, oats or quinoa",
+        "Add a little healthy fat: nuts, seeds or olive oil"
+      ],
+      "caption": "This simple visual works for almost any meal, from curry to grain bowls. You don't need to count anything.",
+      "call_to_action": "Save this and screenshot it for the fridge.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganforbeginners",
+        "#balancedmeal",
+        "#plantbased",
+        "#healthyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Build a Balanced Vegan Plate. Point 1: Fill half your plate with vegetables and fruit. Point 2: A quarter with protein: beans, lentils, tofu or tempeh. Point 3: A quarter with whole grains like rice, oats or quinoa. Point 4: Add a little healthy fat: nuts, seeds or olive oil.",
+      "source_url": null
+    },
+    {
+      "id": "vl-020",
+      "category": "sustainability",
+      "headline": "Land Use: Plants vs Livestock",
+      "points": [
+        "About half of the world's habitable land is used for farming",
+        "Over three-quarters of farmland is used for livestock",
+        "Animal products give 18% of calories and 37% of protein",
+        "Plant-rich diets need far less land"
+      ],
+      "caption": "Land is one of food's biggest environmental footprints. These figures come from Our World in Data.",
+      "call_to_action": "Did any of these numbers surprise you?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#sustainableeating",
+        "#landuse",
+        "#plantbased",
+        "#climatefriendly"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Land Use: Plants vs Livestock. Point 1: About half of the world's habitable land is used for farming. Point 2: Over three-quarters of farmland is used for livestock. Point 3: Animal products give 18% of calories and 37% of protein. Point 4: Plant-rich diets need far less land.",
+      "source_url": "https://ourworldindata.org/environmental-impacts-of-food",
+      "factual": true
+    },
+    {
+      "id": "vl-021",
+      "category": "quick_recipes",
+      "headline": "Overnight Oats, Zero Cooking",
+      "points": [
+        "Mix 50 g oats, 150 ml plant milk and 1 tbsp chia seeds",
+        "Add a pinch of cinnamon and a little sweetener",
+        "Cover and chill overnight",
+        "Top with fruit and a spoon of nut butter"
+      ],
+      "caption": "Breakfast is ready before you wake up. Make three jars at once for an easy start to the week.",
+      "call_to_action": "What's your go-to topping?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#overnightoats",
+        "#veganbreakfast",
+        "#veganrecipes",
+        "#mealprep"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Overnight Oats, Zero Cooking. Point 1: Mix 50 g oats, 150 ml plant milk and 1 tbsp chia seeds. Point 2: Add a pinch of cinnamon and a little sweetener. Point 3: Cover and chill overnight. Point 4: Top with fruit and a spoon of nut butter.",
+      "source_url": null
+    },
+    {
+      "id": "vl-022",
+      "category": "food_facts",
+      "headline": "Plant Sources of Omega-3",
+      "points": [
+        "Ground flaxseed, chia seeds and walnuts provide ALA omega-3",
+        "Hemp seeds and rapeseed (canola) oil count too",
+        "The body converts only small amounts of ALA into EPA and DHA",
+        "Algal oil is a vegan source of EPA and DHA"
+      ],
+      "caption": "Omega-3 on a vegan diet starts with seeds and walnuts. If you're thinking about algal oil supplements, a doctor or dietitian can help you decide.",
+      "call_to_action": "Save this for your next shopping trip.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#omega3",
+        "#vegannutrition",
+        "#chiaseeds",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Plant Sources of Omega-3. Point 1: Ground flaxseed, chia seeds and walnuts provide ALA omega-3. Point 2: Hemp seeds and rapeseed (canola) oil count too. Point 3: The body converts only small amounts of ALA into EPA and DHA. Point 4: Algal oil is a vegan source of EPA and DHA.",
+      "source_url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/"
+    },
+    {
+      "id": "vl-023",
+      "category": "substitutions",
+      "headline": "Butter Swaps That Work",
+      "points": [
+        "Plant-based block butter for pastry and cookies",
+        "Olive oil for savoury cooking and roasting",
+        "Coconut oil for bakes that need to set firm",
+        "Nut butter in brownies and flapjacks"
+      ],
+      "caption": "Butter does different jobs in different recipes. Match the swap to the job and most recipes turn out just as well.",
+      "call_to_action": "Save this and share it with a baker friend.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganbutter",
+        "#veganbaking",
+        "#veganswaps",
+        "#dairyfree"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Butter Swaps That Work. Point 1: Plant-based block butter for pastry and cookies. Point 2: Olive oil for savoury cooking and roasting. Point 3: Coconut oil for bakes that need to set firm. Point 4: Nut butter in brownies and flapjacks.",
+      "source_url": null
+    },
+    {
+      "id": "vl-024",
+      "category": "grocery_tips",
+      "headline": "Budget Vegan Shopping List",
+      "points": [
+        "Canned and dried beans, lentils and chickpeas",
+        "Oats, rice, pasta and other whole grains",
+        "Frozen veg and frozen berries",
+        "Seasonal fruit and veg, plus supermarket own brands"
+      ],
+      "caption": "Plant-based eating can be one of the cheapest ways to eat. Build your basket around staples and add treats around the edges.",
+      "call_to_action": "Share your best budget staple in the comments.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#budgetvegan",
+        "#veganshopping",
+        "#cheapmeals",
+        "#veganpantry"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Budget Vegan Shopping List. Point 1: Canned and dried beans, lentils and chickpeas. Point 2: Oats, rice, pasta and other whole grains. Point 3: Frozen veg and frozen berries. Point 4: Seasonal fruit and veg, plus supermarket own brands.",
+      "source_url": null
+    },
+    {
+      "id": "vl-025",
+      "category": "questions",
+      "headline": "What's Your Go-To Protein?",
+      "points": [
+        "A: Beans and chickpeas",
+        "B: Tofu or tempeh",
+        "C: Lentils",
+        "D: Seitan"
+      ],
+      "caption": "Everyone has a favourite. Tell us yours and how you cook it.",
+      "call_to_action": "Comment A, B, C or D.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#plantbasedprotein",
+        "#vegancommunity",
+        "#plantbased",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: What's Your Go-To Protein?. Point 1: A: Beans and chickpeas. Point 2: B: Tofu or tempeh. Point 3: C: Lentils. Point 4: D: Seitan.",
+      "source_url": null
+    },
+    {
+      "id": "vl-026",
+      "category": "ingredients",
+      "headline": "Tempeh: Fermented Soy With Bite",
+      "points": [
+        "Made from whole soybeans pressed into a firm block",
+        "Nutty flavour and a hearty, chewy texture",
+        "Steaming it for 10 minutes mellows any bitterness",
+        "Marinate and pan-fry, or crumble into bolognese"
+      ],
+      "caption": "If tofu feels too soft for you, try tempeh. It holds its shape, soaks up marinades and browns beautifully in a hot pan.",
+      "call_to_action": "Have you tried tempeh yet? Yes, no or not sure?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#tempeh",
+        "#veganpantry",
+        "#plantbasedprotein",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Tempeh: Fermented Soy With Bite. Point 1: Made from whole soybeans pressed into a firm block. Point 2: Nutty flavour and a hearty, chewy texture. Point 3: Steaming it for 10 minutes mellows any bitterness. Point 4: Marinate and pan-fry, or crumble into bolognese.",
+      "source_url": null
+    },
+    {
+      "id": "vl-027",
+      "category": "myths",
+      "headline": "Myth: Eating Local Beats Eating Plants",
+      "points": [
+        "Myth: food miles are the biggest part of your footprint",
+        "Fact: transport is a small share of most foods' emissions",
+        "What you eat matters far more than where it's from",
+        "Local is great, but it's not the main lever"
+      ],
+      "caption": "Buying local has many benefits, but for carbon footprint the type of food matters far more than the distance it travels. Our World in Data explains the numbers.",
+      "call_to_action": "Did this surprise you? Yes or no?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmyths",
+        "#sustainableeating",
+        "#climatefriendly",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Myth: Eating Local Beats Eating Plants. Point 1: Myth: food miles are the biggest part of your footprint. Point 2: Fact: transport is a small share of most foods' emissions. Point 3: What you eat matters far more than where it's from. Point 4: Local is great, but it's not the main lever.",
+      "source_url": "https://ourworldindata.org/food-choice-vs-eating-local"
+    },
+    {
+      "id": "vl-028",
+      "category": "meal_planning",
+      "headline": "5 Dinners, One Shopping List",
+      "points": [
+        "Mon: bean chilli (make a double batch)",
+        "Tue: chilli-stuffed sweet potatoes",
+        "Wed: chickpea curry (double batch)",
+        "Thu: curry wraps · Fri: pantry pasta"
+      ],
+      "caption": "Cook twice and eat five times. Planning leftovers on purpose saves time, money and food.",
+      "call_to_action": "Save this plan for next week.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmealprep",
+        "#mealplanning",
+        "#budgetvegan",
+        "#veganrecipes"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: 5 Dinners, One Shopping List. Point 1: Mon: bean chilli (make a double batch). Point 2: Tue: chilli-stuffed sweet potatoes. Point 3: Wed: chickpea curry (double batch). Point 4: Thu: curry wraps · Fri: pantry pasta.",
+      "source_url": null
+    },
+    {
+      "id": "vl-029",
+      "category": "beginner_guides",
+      "headline": "Vegan Protein Basics",
+      "points": [
+        "Beans, lentils and chickpeas",
+        "Tofu, tempeh and edamame",
+        "Nuts, seeds and nut butters",
+        "Whole grains: mix sources across the day"
+      ],
+      "caption": "Plant protein is easy once you know where to find it. Variety across the day matters more than perfect combinations at every meal.",
+      "call_to_action": "What's your favourite protein-rich meal?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#plantbasedprotein",
+        "#veganforbeginners",
+        "#veganprotein",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Vegan Protein Basics. Point 1: Beans, lentils and chickpeas. Point 2: Tofu, tempeh and edamame. Point 3: Nuts, seeds and nut butters. Point 4: Whole grains: mix sources across the day.",
+      "source_url": "https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/"
+    },
+    {
+      "id": "vl-030",
+      "category": "sustainability",
+      "headline": "Beef vs Beans: Carbon Footprint",
+      "points": [
+        "Beef is the most carbon-intensive common food",
+        "Even the lowest-impact beef and lamb exceed most plant foods",
+        "Meat and dairy generally have higher footprints than plants",
+        "Peas, beans and other pulses are among the lowest"
+      ],
+      "caption": "If you want one swap with a big climate impact, try beans instead of beef a few times a week. Data from Our World in Data.",
+      "call_to_action": "Will you try a beans-for-beef swap this week?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#sustainableeating",
+        "#climatefriendly",
+        "#plantbased",
+        "#beans"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Beef vs Beans: Carbon Footprint. Point 1: Beef is the most carbon-intensive common food. Point 2: Even the lowest-impact beef and lamb exceed most plant foods. Point 3: Meat and dairy generally have higher footprints than plants. Point 4: Peas, beans and other pulses are among the lowest.",
+      "source_url": "https://ourworldindata.org/environmental-impacts-of-food",
+      "factual": true
+    },
+    {
+      "id": "vl-031",
+      "category": "quick_recipes",
+      "headline": "Smashed White Bean Toast",
+      "points": [
+        "Drain 1 can of white beans",
+        "Mash with lemon juice, 1 garlic clove, olive oil and salt",
+        "Pile onto thick toast",
+        "Finish with cherry tomatoes, chilli flakes and herbs"
+      ],
+      "caption": "It's creamy, garlicky and ready in 5 minutes. This is a lunch that keeps you going all afternoon.",
+      "call_to_action": "Save this for your next lazy lunch.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganrecipes",
+        "#veganlunch",
+        "#beansontoast",
+        "#easyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Smashed White Bean Toast. Point 1: Drain 1 can of white beans. Point 2: Mash with lemon juice, 1 garlic clove, olive oil and salt. Point 3: Pile onto thick toast. Point 4: Finish with cherry tomatoes, chilli flakes and herbs.",
+      "source_url": null
+    },
+    {
+      "id": "vl-032",
+      "category": "food_facts",
+      "headline": "Calcium Without Dairy",
+      "points": [
+        "Calcium-set tofu is one of the best plant sources",
+        "Choose plant drinks fortified with calcium",
+        "Sesame seeds and tahini add calcium to dressings and dips",
+        "Greens like broccoli, cabbage and okra help too"
+      ],
+      "caption": "You don't need dairy for calcium. Check tofu labels for calcium sulfate, and shake fortified plant drinks well, because the calcium can settle at the bottom.",
+      "call_to_action": "Tag a friend who still thinks calcium means milk.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#calcium",
+        "#vegannutrition",
+        "#tofu",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Calcium Without Dairy. Point 1: Calcium-set tofu is one of the best plant sources. Point 2: Choose plant drinks fortified with calcium. Point 3: Sesame seeds and tahini add calcium to dressings and dips. Point 4: Greens like broccoli, cabbage and okra help too.",
+      "source_url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    },
+    {
+      "id": "vl-033",
+      "category": "substitutions",
+      "headline": "Cheesy Flavour Without Cheese",
+      "points": [
+        "Nutritional yeast for a parmesan-style sprinkle",
+        "Blend soaked cashews, lemon and nooch for creamy sauce",
+        "A little miso adds salty, aged depth",
+        "Hummus or avocado makes sandwiches rich and creamy"
+      ],
+      "caption": "Most of what we love about cheese is its saltiness, savouriness and creaminess. These pantry swaps give you all three.",
+      "call_to_action": "What's the one cheese dish you'd veganise first?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#vegancheese",
+        "#dairyfree",
+        "#veganswaps",
+        "#nutritionalyeast"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Cheesy Flavour Without Cheese. Point 1: Nutritional yeast for a parmesan-style sprinkle. Point 2: Blend soaked cashews, lemon and nooch for creamy sauce. Point 3: A little miso adds salty, aged depth. Point 4: Hummus or avocado makes sandwiches rich and creamy.",
+      "source_url": null
+    },
+    {
+      "id": "vl-034",
+      "category": "grocery_tips",
+      "headline": "Frozen Aisle Wins",
+      "points": [
+        "Frozen spinach and peas for quick dinners",
+        "Edamame for snacks and stir-fries",
+        "Frozen berries for oats and smoothies",
+        "Pre-chopped onions to save prep time"
+      ],
+      "caption": "The freezer aisle is a busy cook's best friend. It means less waste, less chopping, and veg ready whenever you are.",
+      "call_to_action": "What's always in your freezer?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganshopping",
+        "#frozenveg",
+        "#vegantips",
+        "#easyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Frozen Aisle Wins. Point 1: Frozen spinach and peas for quick dinners. Point 2: Edamame for snacks and stir-fries. Point 3: Frozen berries for oats and smoothies. Point 4: Pre-chopped onions to save prep time.",
+      "source_url": null
+    },
+    {
+      "id": "vl-035",
+      "category": "questions",
+      "headline": "Sweet or Savoury Breakfast?",
+      "points": [
+        "A: Oats, fruit and nut butter",
+        "B: Tofu scramble",
+        "C: Smashed beans or avocado on toast",
+        "D: Smoothie on the go"
+      ],
+      "caption": "Breakfast says a lot about a person. Which one is you?",
+      "call_to_action": "Comment your letter below.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganbreakfast",
+        "#vegancommunity",
+        "#plantbased",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Sweet or Savoury Breakfast?. Point 1: A: Oats, fruit and nut butter. Point 2: B: Tofu scramble. Point 3: C: Smashed beans or avocado on toast. Point 4: D: Smoothie on the go.",
+      "source_url": null
+    },
+    {
+      "id": "vl-036",
+      "category": "ingredients",
+      "headline": "Aquafaba: The Chickpea Water Trick",
+      "points": [
+        "It's the liquid from a can of chickpeas",
+        "Whisked, it foams up like egg whites",
+        "About 3 tbsp replaces 1 egg white in many recipes",
+        "Use it for meringues, mousse or vegan mayo"
+      ],
+      "caption": "Before you drain your next can of chickpeas, keep the liquid. Aquafaba is one of the most surprising tools in vegan baking.",
+      "call_to_action": "Save this and try it this weekend.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#aquafaba",
+        "#veganbaking",
+        "#chickpeas",
+        "#veganhacks"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Aquafaba: The Chickpea Water Trick. Point 1: It's the liquid from a can of chickpeas. Point 2: Whisked, it foams up like egg whites. Point 3: About 3 tbsp replaces 1 egg white in many recipes. Point 4: Use it for meringues, mousse or vegan mayo.",
+      "source_url": null
+    },
+    {
+      "id": "vl-037",
+      "category": "myths",
+      "headline": "Myth: Spinach Is the Best Calcium Source",
+      "points": [
+        "Myth: spinach is packed with usable calcium",
+        "Fact: your body absorbs little of spinach's calcium",
+        "Better picks: calcium-set tofu and fortified plant drinks",
+        "Broccoli, okra, tahini and sesame help too"
+      ],
+      "caption": "Spinach is still a great vegetable. It just isn't your calcium solution.",
+      "call_to_action": "Save this for your next meal plan.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmyths",
+        "#calcium",
+        "#vegannutrition",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Myth: Spinach Is the Best Calcium Source. Point 1: Myth: spinach is packed with usable calcium. Point 2: Fact: your body absorbs little of spinach's calcium. Point 3: Better picks: calcium-set tofu and fortified plant drinks. Point 4: Broccoli, okra, tahini and sesame help too.",
+      "source_url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    },
+    {
+      "id": "vl-038",
+      "category": "meal_planning",
+      "headline": "Freezer-Friendly Vegan Meals",
+      "points": [
+        "Chilli, dal and lentil soups freeze brilliantly",
+        "Bean burgers and veggie patties freeze well too",
+        "Cool food quickly, then portion it before freezing",
+        "Label every container with the name and date"
+      ],
+      "caption": "A stocked freezer is a gift to your future self on a busy night.",
+      "call_to_action": "What's your best freezer meal?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmealprep",
+        "#freezermeals",
+        "#batchcooking",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Freezer-Friendly Vegan Meals. Point 1: Chilli, dal and lentil soups freeze brilliantly. Point 2: Bean burgers and veggie patties freeze well too. Point 3: Cool food quickly, then portion it before freezing. Point 4: Label every container with the name and date.",
+      "source_url": null
+    },
+    {
+      "id": "vl-039",
+      "category": "beginner_guides",
+      "headline": "Eating Out as a New Vegan",
+      "points": [
+        "Check menus online before you go",
+        "Ask about stock, butter, ghee and fish sauce",
+        "Indian, Thai and Middle Eastern menus often have options",
+        "Be friendly and specific when you ask the staff"
+      ],
+      "caption": "Eating out gets easier with a little preparation. Most kitchens are happy to help if you ask clearly.",
+      "call_to_action": "Share your favourite vegan-friendly cuisine.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganforbeginners",
+        "#eatingoutvegan",
+        "#vegantips",
+        "#veganlife"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Eating Out as a New Vegan. Point 1: Check menus online before you go. Point 2: Ask about stock, butter, ghee and fish sauce. Point 3: Indian, Thai and Middle Eastern menus often have options. Point 4: Be friendly and specific when you ask the staff.",
+      "source_url": null
+    },
+    {
+      "id": "vl-040",
+      "category": "sustainability",
+      "headline": "Cut Food Waste at Home",
+      "points": [
+        "Plan meals and shop with a list",
+        "Store herbs in a glass of water in the fridge",
+        "Freeze bread and overripe bananas",
+        "Turn veg scraps into stock"
+      ],
+      "caption": "The greenest food is the food you actually eat. Small habits keep good ingredients out of the bin.",
+      "call_to_action": "Share your best anti-waste tip.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#foodwaste",
+        "#zerowastekitchen",
+        "#sustainableliving",
+        "#vegantips"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Cut Food Waste at Home. Point 1: Plan meals and shop with a list. Point 2: Store herbs in a glass of water in the fridge. Point 3: Freeze bread and overripe bananas. Point 4: Turn veg scraps into stock.",
+      "source_url": null
+    },
+    {
+      "id": "vl-041",
+      "category": "quick_recipes",
+      "headline": "One-Pot Red Lentil Soup",
+      "points": [
+        "Soften 1 onion, 1 carrot and 2 garlic cloves",
+        "Add 150 g red lentils, 1 tsp cumin and 1 litre stock",
+        "Simmer about 20 minutes until the lentils collapse",
+        "Blend half, stir back in, finish with lemon"
+      ],
+      "caption": "This is a cosy, budget-friendly soup that freezes well. It serves 4 and costs very little per bowl.",
+      "call_to_action": "Would you add chilli or keep it mild?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganrecipes",
+        "#lentilsoup",
+        "#budgetvegan",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: One-Pot Red Lentil Soup. Point 1: Soften 1 onion, 1 carrot and 2 garlic cloves. Point 2: Add 150 g red lentils, 1 tsp cumin and 1 litre stock. Point 3: Simmer about 20 minutes until the lentils collapse. Point 4: Blend half, stir back in, finish with lemon.",
+      "source_url": null
+    },
+    {
+      "id": "vl-042",
+      "category": "food_facts",
+      "headline": "Don't Forget Iodine",
+      "points": [
+        "Vegans can fall short on iodine without some planning",
+        "Many plant drinks are not fortified with iodine: check labels",
+        "Fortified foods or a supplement are reliable options",
+        "Ask a health professional which option suits you"
+      ],
+      "caption": "Iodine rarely gets talked about, but it matters. It's easy to cover once you know to look for it on labels.",
+      "call_to_action": "Did you know about iodine? Answer yes or no in the comments.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#iodine",
+        "#vegannutrition",
+        "#veganforbeginners",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Don't Forget Iodine. Point 1: Vegans can fall short on iodine without some planning. Point 2: Many plant drinks are not fortified with iodine: check labels. Point 3: Fortified foods or a supplement are reliable options. Point 4: Ask a health professional which option suits you.",
+      "source_url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    },
+    {
+      "id": "vl-043",
+      "category": "substitutions",
+      "headline": "Swap Mince for Lentils",
+      "points": [
+        "A drained 400 g can of lentils stands in for about 250 g mince",
+        "Add finely chopped mushrooms for a meaty texture",
+        "A spoon of soy sauce or miso adds savoury depth",
+        "Works in bolognese, chilli, shepherd's pie and tacos"
+      ],
+      "caption": "Lentils are the easiest mince swap there is: cheap, quick and good at soaking up flavour. Nobody at the table needs to know.",
+      "call_to_action": "Save this for your next pasta night.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#lentilbolognese",
+        "#veganswaps",
+        "#budgetvegan",
+        "#veganrecipes"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Swap Mince for Lentils. Point 1: A drained 400 g can of lentils stands in for about 250 g mince. Point 2: Add finely chopped mushrooms for a meaty texture. Point 3: A spoon of soy sauce or miso adds savoury depth. Point 4: Works in bolognese, chilli, shepherd's pie and tacos.",
+      "source_url": null
+    },
+    {
+      "id": "vl-044",
+      "category": "grocery_tips",
+      "headline": "Use By vs Best Before",
+      "points": [
+        "'Use by' is about safety: don't eat food after this date",
+        "'Best before' is about quality: food is often fine after it",
+        "Look, smell and taste-check food past its best before date",
+        "Freeze food before its use-by date to keep it longer"
+      ],
+      "caption": "Knowing the difference saves money and stops good food going in the bin. Always follow 'use by' dates.",
+      "call_to_action": "Save this and share it with your housemates.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#foodwaste",
+        "#vegantips",
+        "#foodlabels",
+        "#sustainableliving"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Use By vs Best Before. Point 1: 'Use by' is about safety: don't eat food after this date. Point 2: 'Best before' is about quality: food is often fine after it. Point 3: Look, smell and taste-check food past its best before date. Point 4: Freeze food before its use-by date to keep it longer.",
+      "source_url": "https://www.gov.uk/understanding-food-labelling"
+    },
+    {
+      "id": "vl-045",
+      "category": "questions",
+      "headline": "Easiest Cuisine to Eat Vegan?",
+      "points": [
+        "A: Indian",
+        "B: Ethiopian",
+        "C: Thai",
+        "D: Middle Eastern"
+      ],
+      "caption": "Some cuisines make plant-based eating feel effortless. Which do you reach for first?",
+      "call_to_action": "Vote in the comments.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganfood",
+        "#vegancommunity",
+        "#worldfood",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Easiest Cuisine to Eat Vegan?. Point 1: A: Indian. Point 2: B: Ethiopian. Point 3: C: Thai. Point 4: D: Middle Eastern.",
+      "source_url": null
+    },
+    {
+      "id": "vl-046",
+      "category": "ingredients",
+      "headline": "Lentils at a Glance",
+      "points": [
+        "Red: cooks in about 15 minutes, great for dal and soup",
+        "Brown or green: holds its shape, good for salads and ragù",
+        "Black (beluga): firm and glossy, ideal for salads",
+        "No soaking needed: just rinse and cook"
+      ],
+      "caption": "Lentils are cheap, quick and endlessly useful. Knowing which colour to grab makes the difference between mush and a perfect salad.",
+      "call_to_action": "Which lentil is in your cupboard right now?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#lentils",
+        "#veganpantry",
+        "#pulses",
+        "#budgetvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Lentils at a Glance. Point 1: Red: cooks in about 15 minutes, great for dal and soup. Point 2: Brown or green: holds its shape, good for salads and ragù. Point 3: Black (beluga): firm and glossy, ideal for salads. Point 4: No soaking needed: just rinse and cook.",
+      "source_url": null
+    },
+    {
+      "id": "vl-047",
+      "category": "myths",
+      "headline": "Myth: Plant Iron Doesn't Count",
+      "points": [
+        "Myth: iron from plants is useless",
+        "Fact: it's absorbed less efficiently, but it still counts",
+        "Vitamin C at the same meal improves absorption",
+        "Vegetarians may need almost twice as much, per the NIH"
+      ],
+      "caption": "Plant iron absolutely counts, and you just plan for it. Lentils with tomatoes, or beans with peppers, are easy wins.",
+      "call_to_action": "What's your favourite iron-rich combo?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmyths",
+        "#plantbasediron",
+        "#vegannutrition",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Myth: Plant Iron Doesn't Count. Point 1: Myth: iron from plants is useless. Point 2: Fact: it's absorbed less efficiently, but it still counts. Point 3: Vitamin C at the same meal improves absorption. Point 4: Vegetarians may need almost twice as much, per the NIH.",
+      "source_url": "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
+    },
+    {
+      "id": "vl-048",
+      "category": "meal_planning",
+      "headline": "Packed Lunch Ideas",
+      "points": [
+        "Hummus and roasted veg wrap",
+        "Leftover curry with rice",
+        "Grain salad with chickpeas and lemon dressing",
+        "Peanut noodle jar with crunchy veg"
+      ],
+      "caption": "Packed lunches don't have to be boring. Each of these keeps well until lunchtime.",
+      "call_to_action": "Which one are you making tomorrow?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganlunch",
+        "#veganmealprep",
+        "#lunchideas",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Packed Lunch Ideas. Point 1: Hummus and roasted veg wrap. Point 2: Leftover curry with rice. Point 3: Grain salad with chickpeas and lemon dressing. Point 4: Peanut noodle jar with crunchy veg.",
+      "source_url": null
+    },
+    {
+      "id": "vl-049",
+      "category": "beginner_guides",
+      "headline": "Nutrients to Plan For",
+      "points": [
+        "Vitamin B12 and iodine: fortified foods or supplements",
+        "Vitamin D, especially in autumn and winter",
+        "Omega-3: flax, chia, walnuts, hemp",
+        "Calcium and iron from a varied, well-planned diet"
+      ],
+      "caption": "A well-planned vegan diet covers your needs, and planning is the key word. Talk to a doctor or dietitian before starting supplements.",
+      "call_to_action": "Save this checklist.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#vegannutrition",
+        "#veganforbeginners",
+        "#plantbased",
+        "#healthyvegan"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Nutrients to Plan For. Point 1: Vitamin B12 and iodine: fortified foods or supplements. Point 2: Vitamin D, especially in autumn and winter. Point 3: Omega-3: flax, chia, walnuts, hemp. Point 4: Calcium and iron from a varied, well-planned diet.",
+      "source_url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    },
+    {
+      "id": "vl-050",
+      "category": "sustainability",
+      "headline": "Seasonal Shopping Made Simple",
+      "points": [
+        "Check what's abundant and good value at the market",
+        "Build meals around one seasonal hero ingredient",
+        "Freeze or pickle gluts for later",
+        "Canned and frozen veg fill the gaps"
+      ],
+      "caption": "Seasonal produce is often tastier and better value. Let the season pick your star ingredient.",
+      "call_to_action": "What's in season where you live right now?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#seasonaleating",
+        "#sustainableliving",
+        "#plantbased",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Seasonal Shopping Made Simple. Point 1: Check what's abundant and good value at the market. Point 2: Build meals around one seasonal hero ingredient. Point 3: Freeze or pickle gluts for later. Point 4: Canned and frozen veg fill the gaps.",
+      "source_url": null
+    },
+    {
+      "id": "vl-051",
+      "category": "quick_recipes",
+      "headline": "Crispy Tofu Rice Bowl",
+      "points": [
+        "Press and cube 200 g firm tofu, toss with 1 tbsp cornflour",
+        "Pan-fry until golden on all sides, about 10 minutes",
+        "Glaze with soy sauce, maple syrup and garlic",
+        "Serve over rice with cucumber, carrot and sesame"
+      ],
+      "caption": "The cornflour coating is the secret to crunchy tofu. Don't crowd the pan and let each side brown before you turn it.",
+      "call_to_action": "Save this and tell us how crispy yours gets.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganrecipes",
+        "#crispytofu",
+        "#tofurecipes",
+        "#ricebowl"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Crispy Tofu Rice Bowl. Point 1: Press and cube 200 g firm tofu, toss with 1 tbsp cornflour. Point 2: Pan-fry until golden on all sides, about 10 minutes. Point 3: Glaze with soy sauce, maple syrup and garlic. Point 4: Serve over rice with cucumber, carrot and sesame.",
+      "source_url": null
+    },
+    {
+      "id": "vl-052",
+      "category": "food_facts",
+      "headline": "Vitamin D Through the Year",
+      "points": [
+        "Your skin makes vitamin D from sunlight in spring and summer",
+        "The NHS suggests considering a supplement in autumn and winter",
+        "Some vitamin D3 is animal-derived, so check it's labelled vegan",
+        "Fortified spreads, cereals and plant drinks can contribute"
+      ],
+      "caption": "Vitamin D advice depends on where you live and how much sun you get. In the UK, the NHS suggests that everyone considers a supplement in the darker months, vegans included.",
+      "call_to_action": "Save this as a reminder for when the clocks change.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#vitamind",
+        "#vegannutrition",
+        "#plantbased",
+        "#veganlife"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Vitamin D Through the Year. Point 1: Your skin makes vitamin D from sunlight in spring and summer. Point 2: The NHS suggests considering a supplement in autumn and winter. Point 3: Some vitamin D3 is animal-derived, so check it's labelled vegan. Point 4: Fortified spreads, cereals and plant drinks can contribute.",
+      "source_url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/"
+    },
+    {
+      "id": "vl-053",
+      "category": "substitutions",
+      "headline": "Honey and Gelatin Alternatives",
+      "points": [
+        "Maple syrup or agave replaces honey 1:1 in most recipes",
+        "Date syrup brings a deep caramel flavour to baking",
+        "Agar agar sets like gelatin but must be boiled to activate",
+        "Check jelly sweets and some desserts for gelatin"
+      ],
+      "caption": "Honey and gelatin turn up in unexpected places. These swaps keep your bakes and desserts fully plant-based.",
+      "call_to_action": "Did you know gelatin is animal-derived? Yes or no?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganswaps",
+        "#agaragar",
+        "#veganbaking",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Honey and Gelatin Alternatives. Point 1: Maple syrup or agave replaces honey 1:1 in most recipes. Point 2: Date syrup brings a deep caramel flavour to baking. Point 3: Agar agar sets like gelatin but must be boiled to activate. Point 4: Check jelly sweets and some desserts for gelatin.",
+      "source_url": null
+    },
+    {
+      "id": "vl-054",
+      "category": "grocery_tips",
+      "headline": "Shopping the Plant Milk Shelf",
+      "points": [
+        "Pick unsweetened versions for cooking",
+        "Check for added calcium, vitamin D and B12",
+        "Some organic versions are not fortified: read the label",
+        "Long-life cartons are great for stocking up"
+      ],
+      "caption": "Plant milks vary a lot from carton to carton. A 10-second label check helps you pick one that works for your coffee and your nutrition.",
+      "call_to_action": "Which brand do you buy? Tell us below.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#plantmilk",
+        "#veganshopping",
+        "#readthelabel",
+        "#dairyfree"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Shopping the Plant Milk Shelf. Point 1: Pick unsweetened versions for cooking. Point 2: Check for added calcium, vitamin D and B12. Point 3: Some organic versions are not fortified: read the label. Point 4: Long-life cartons are great for stocking up.",
+      "source_url": null
+    },
+    {
+      "id": "vl-055",
+      "category": "questions",
+      "headline": "What Should We Post More Of?",
+      "points": [
+        "A: Quick recipes",
+        "B: Nutrition basics",
+        "C: Supermarket tips",
+        "D: Meal prep plans"
+      ],
+      "caption": "Vegan Leaf is built for you. Tell us what you want more of and we'll make it.",
+      "call_to_action": "Comment A, B, C or D.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#vegancommunity",
+        "#plantbased",
+        "#veganforbeginners"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: What Should We Post More Of?. Point 1: A: Quick recipes. Point 2: B: Nutrition basics. Point 3: C: Supermarket tips. Point 4: D: Meal prep plans.",
+      "source_url": null
+    },
+    {
+      "id": "vl-056",
+      "category": "ingredients",
+      "headline": "Jackfruit: A Texture Swap",
+      "points": [
+        "Buy young green jackfruit in water or brine, not syrup",
+        "Rinse, then shred it with two forks",
+        "Simmer in BBQ sauce for pulled-style sandwiches",
+        "Add beans or tofu for a more filling meal"
+      ],
+      "caption": "Young jackfruit shreds into a pulled texture and takes on any sauce you give it. Treat it as a texture ingredient and build the rest of the meal around it.",
+      "call_to_action": "Would you try jackfruit tacos? Tell us in the comments.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#jackfruit",
+        "#veganbbq",
+        "#plantbasedcooking",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Jackfruit: A Texture Swap. Point 1: Buy young green jackfruit in water or brine, not syrup. Point 2: Rinse, then shred it with two forks. Point 3: Simmer in BBQ sauce for pulled-style sandwiches. Point 4: Add beans or tofu for a more filling meal.",
+      "source_url": null
+    },
+    {
+      "id": "vl-057",
+      "category": "myths",
+      "headline": "Myth: Unwashed Veg Provides B12",
+      "points": [
+        "Myth: you'll get B12 from soil on vegetables",
+        "Fact: plant foods are not a reliable B12 source",
+        "B12 is found naturally only in animal foods",
+        "Use fortified foods or a supplement"
+      ],
+      "caption": "This myth is common, and it's risky. B12 is the one nutrient you shouldn't leave to chance.",
+      "call_to_action": "Share this with a new vegan friend.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganmyths",
+        "#vitaminb12",
+        "#vegannutrition",
+        "#veganforbeginners"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Myth: Unwashed Veg Provides B12. Point 1: Myth: you'll get B12 from soil on vegetables. Point 2: Fact: plant foods are not a reliable B12 source. Point 3: B12 is found naturally only in animal foods. Point 4: Use fortified foods or a supplement.",
+      "source_url": "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/"
+    },
+    {
+      "id": "vl-058",
+      "category": "meal_planning",
+      "headline": "Snacks That Actually Satisfy",
+      "points": [
+        "Hummus with crunchy veg sticks",
+        "Apple slices with peanut butter",
+        "Roasted chickpeas with smoked paprika",
+        "Soy yoghurt with granola and berries"
+      ],
+      "caption": "Pair something fresh with something filling and your snack will last until the next meal.",
+      "call_to_action": "What's your go-to snack?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#vegansnacks",
+        "#healthysnacks",
+        "#plantbased",
+        "#veganfood"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Snacks That Actually Satisfy. Point 1: Hummus with crunchy veg sticks. Point 2: Apple slices with peanut butter. Point 3: Roasted chickpeas with smoked paprika. Point 4: Soy yoghurt with granola and berries.",
+      "source_url": null
+    },
+    {
+      "id": "vl-059",
+      "category": "beginner_guides",
+      "headline": "Your First Vegan Week",
+      "points": [
+        "Days 1–2: switch to vegan breakfasts",
+        "Days 3–4: add vegan lunches",
+        "Days 5–7: try three new vegan dinners",
+        "Note the favourites you'd happily eat again"
+      ],
+      "caption": "Make it an experiment, not an exam. One week gives you a feel for what works for you.",
+      "call_to_action": "Will you try it? Comment 'in' to join.",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#veganforbeginners",
+        "#veganchallenge",
+        "#goingvegan",
+        "#plantbased"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Your First Vegan Week. Point 1: Days 1–2: switch to vegan breakfasts. Point 2: Days 3–4: add vegan lunches. Point 3: Days 5–7: try three new vegan dinners. Point 4: Note the favourites you'd happily eat again.",
+      "source_url": null
+    },
+    {
+      "id": "vl-060",
+      "category": "sustainability",
+      "headline": "Small Swaps, Real Impact",
+      "points": [
+        "Swap beef for beans or lentils a few times a week",
+        "Try plant milk in your coffee",
+        "Make one meal a day fully plant-based",
+        "Meat and dairy generally have the highest footprints"
+      ],
+      "caption": "You don't have to be perfect to make a difference. Consistent small swaps add up over a year.",
+      "call_to_action": "Which swap will you try first?",
+      "hashtags": [
+        "#veganleaf",
+        "#vegan",
+        "#sustainableeating",
+        "#plantbased",
+        "#climatefriendly",
+        "#veganswaps"
+      ],
+      "alt_text": "Vegan Leaf graphic with a cream and forest-green design. Headline: Small Swaps, Real Impact. Point 1: Swap beef for beans or lentils a few times a week. Point 2: Try plant milk in your coffee. Point 3: Make one meal a day fully plant-based. Point 4: Meat and dairy generally have the highest footprints.",
+      "source_url": "https://ourworldindata.org/environmental-impacts-of-food",
+      "factual": true
+    }
+  ]
+}

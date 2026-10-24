@@ -1,0 +1,20 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.token
+secrets/
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+# generated output (never committed; Pages gets it via workflow artifact)
+out/
+site/
+.run/
+*.log
+# state lock files
+state/*.lock
+state/*.tmp
