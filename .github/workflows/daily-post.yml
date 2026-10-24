@@ -13,10 +13,10 @@ on:
     # - cron: "45 9 * * *"
     #   timezone: "Europe/Berlin"
     #
-    # - cron: "0 13 * * *"          # lunch slot
-    #   timezone: "Europe/Berlin"
-    # - cron: "45 13 * * *"
-    #   timezone: "Europe/Berlin"
+      - cron: "0 13 * * *"          # lunch slot
+        timezone: "Europe/Berlin"
+      - cron: "45 13 * * *"
+        timezone: "Europe/Berlin"
     #
     - cron: "0 18 * * *"            # evening slot (default)
       timezone: "Europe/Berlin"
