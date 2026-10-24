@@ -52,11 +52,23 @@ def test_secrets_only_from_github_secrets():
     assert not re.search(r"IG_ACCESS_TOKEN:\s*['\"]?[A-Za-z0-9]{20,}", text)
 
 
-def test_actions_are_pinned_to_major_versions():
+def test_actions_are_pinned_to_commit_shas():
     for job in wf()["jobs"].values():
         for step in job["steps"]:
             if "uses" in step:
-                assert re.search(r"@v\d+$", step["uses"]), step["uses"]
+                assert re.search(r"@[0-9a-f]{40}$", step["uses"]), step["uses"]
+
+
+def test_no_untrusted_template_expansion_in_run_scripts():
+    for job in wf()["jobs"].values():
+        for step in job["steps"]:
+            run = step.get("run", "")
+            assert "${{ github.event" not in run and "${{ inputs" not in run, step.get("name")
+
+
+def test_publish_checkout_does_not_persist_credentials():
+    checkout = wf()["jobs"]["publish"]["steps"][0]
+    assert checkout["with"]["persist-credentials"] is False
 
 
 def test_gitignore_covers_secrets_and_outputs():
