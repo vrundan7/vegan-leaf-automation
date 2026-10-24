@@ -220,6 +220,19 @@ Duplicate protection, in layers: a GitHub concurrency group (one publisher at a 
 
 ---
 
+## Changing how many posts per day
+
+Two settings control it, both GitHub repository **variables** (Settings → Secrets and variables → Actions → Variables):
+
+| Variable | Default | Meaning |
+|---|---|---|
+| `POSTS_PER_DAY` | `1` | max posts per Berlin calendar day (1–10) |
+| `MIN_HOURS_BETWEEN_POSTS` | `2` | minimum gap between posts on the same day; stops a backup run turning into an extra post |
+
+You also need **one schedule slot per post**. In `.github/workflows/daily-post.yml`, uncomment the 09:00 and/or 13:00 slot pairs (or add your own times). Example for 2 posts/day at 13:00 and 18:00: set `POSTS_PER_DAY=2` and uncomment the 13:00 pair.
+
+Notes: the library lasts `unused posts ÷ POSTS_PER_DAY` days, so 2/day halves it. More than 2–3 posts a day can reduce reach per post. Instagram's API cap (100 per 24 h) is far above these limits.
+
 ## Optional improvements
 - Write more posts with the same schema and review them with `--preview --all`.
 - Automate Path B token refresh (see step 14).

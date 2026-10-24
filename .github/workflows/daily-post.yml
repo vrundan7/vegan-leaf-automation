@@ -2,12 +2,25 @@ name: Daily Instagram post
 
 on:
   schedule:
-    # 18:00 Europe/Berlin all year. GitHub applies the IANA zone, so CET/CEST is handled for you.
-    - cron: "0 18 * * *"
+    # ── Posting slots (Europe/Berlin; GitHub handles CET/CEST). ─────────────────────
+    # How many posts per day = repo variable POSTS_PER_DAY (default 1).
+    # Have at least as many slots below as POSTS_PER_DAY. Each slot has a backup 45 min
+    # later that only posts if its slot was delayed or dropped (MIN_HOURS_BETWEEN_POSTS).
+    # Uncomment a pair to add a slot.
+    #
+    # - cron: "0 9 * * *"           # morning slot
+    #   timezone: "Europe/Berlin"
+    # - cron: "45 9 * * *"
+    #   timezone: "Europe/Berlin"
+    #
+    # - cron: "0 13 * * *"          # lunch slot
+    #   timezone: "Europe/Berlin"
+    # - cron: "45 13 * * *"
+    #   timezone: "Europe/Berlin"
+    #
+    - cron: "0 18 * * *"            # evening slot (default)
       timezone: "Europe/Berlin"
-    # Safety net: GitHub can delay or even drop top-of-hour scheduled runs under load.
-    # This second trigger is a no-op when today's post is already recorded.
-    - cron: "45 18 * * *"
+    - cron: "45 18 * * *"           # backup for the evening slot
       timezone: "Europe/Berlin"
   workflow_dispatch:
     inputs:
@@ -81,6 +94,9 @@ jobs:
 
       - name: Dry run (no deploy, no posting)
         if: steps.mode.outputs.mode == 'dry-run'
+        env:
+          POSTS_PER_DAY: ${{ vars.POSTS_PER_DAY || '1' }}
+          MIN_HOURS_BETWEEN_POSTS: ${{ vars.MIN_HOURS_BETWEEN_POSTS || '2' }}
         run: python -m src.generate_post --dry-run
 
       - name: Check credentials (no posting)
@@ -101,6 +117,9 @@ jobs:
       - name: Select post, render graphic, build site
         id: build
         if: steps.mode.outputs.mode == 'publish'
+        env:
+          POSTS_PER_DAY: ${{ vars.POSTS_PER_DAY || '1' }}
+          MIN_HOURS_BETWEEN_POSTS: ${{ vars.MIN_HOURS_BETWEEN_POSTS || '2' }}
         run: python -m src.generate_post --build
 
       - name: Upload Pages artifact
@@ -124,6 +143,8 @@ jobs:
           PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
           PUBLISH_ENABLED: ${{ vars.PUBLISH_ENABLED }}
           MAX_CAPTION_HASHTAGS: ${{ vars.MAX_CAPTION_HASHTAGS || '5' }}
+          POSTS_PER_DAY: ${{ vars.POSTS_PER_DAY || '1' }}
+          MIN_HOURS_BETWEEN_POSTS: ${{ vars.MIN_HOURS_BETWEEN_POSTS || '2' }}
         run: python -m src.generate_post --publish
 
       - name: Commit publication history
@@ -135,7 +156,7 @@ jobs:
           git config user.name  "vegan-leaf-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add state/state.json
-          git commit -m "state: record post for $(TZ=Europe/Berlin date +%F)"
+          git commit -m "state: record post for $(TZ=Europe/Berlin date '+%F %H:%M')"
           for i in 1 2 3; do
             git pull --rebase --quiet origin "${{ github.event.repository.default_branch }}" && git push && exit 0
             echo "push attempt $i failed; retrying"; sleep $((i * 5))

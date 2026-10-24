@@ -220,3 +220,49 @@ def test_check_reports_account(isolated, live_env, capsys):
     assert gp.cmd_check(isolated.args(), client=C()) == 0
     out = capsys.readouterr().out
     assert "@veganleaf" in out and live_env not in out
+
+
+# ------------------------------------------------------------- posts per day
+def _post_once(isolated, media_id, **over):
+    a = isolated.args(**over)
+    gp.cmd_build(a)
+    return gp.cmd_publish(a, client=FakeClient(media_id=media_id), verify=no_verify)
+
+
+def _ids(isolated):
+    return [r["post_id"] for r in json.loads(isolated.state.read_text())["published"]]
+
+
+def test_two_posts_per_day_allowed_after_gap(isolated, live_env, monkeypatch):
+    from datetime import datetime, timedelta, timezone
+    monkeypatch.setenv("POSTS_PER_DAY", "2")
+    _post_once(isolated, "1790000000101")
+    monkeypatch.setattr(gp, "_now", lambda: datetime.now(timezone.utc) + timedelta(hours=5))
+    _post_once(isolated, "1790000000102")
+    _post_once(isolated, "1790000000103")          # third run same day: limit reached
+    assert _ids(isolated) == ["vl-001", "vl-002"]
+
+
+def test_backup_run_inside_gap_does_not_post(isolated, live_env, monkeypatch):
+    monkeypatch.setenv("POSTS_PER_DAY", "2")
+    _post_once(isolated, "1790000000101")
+    fake = FakeClient()
+    assert gp.cmd_build(isolated.args()) == 0      # 0 h since last post < 2 h gap
+    assert not gp.PLAN_FILE.exists() or json.loads(gp.PLAN_FILE.read_text())["post_id"] == "vl-001"
+    gp.cmd_publish(isolated.args(), client=fake, verify=no_verify)
+    assert fake.published == [] and _ids(isolated) == ["vl-001"]
+
+
+def test_gap_zero_allows_back_to_back(isolated, live_env, monkeypatch):
+    monkeypatch.setenv("POSTS_PER_DAY", "3")
+    monkeypatch.setenv("MIN_HOURS_BETWEEN_POSTS", "0")
+    for m in ("1790000000101", "1790000000102", "1790000000103"):
+        _post_once(isolated, m)
+    assert len(_ids(isolated)) == 3
+
+
+@pytest.mark.parametrize("value", ["0", "11", "two"])
+def test_invalid_posts_per_day_rejected(isolated, monkeypatch, value):
+    monkeypatch.setenv("POSTS_PER_DAY", value)
+    with pytest.raises(ConfigError):
+        load_settings(use_dotenv=False)

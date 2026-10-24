@@ -81,6 +81,9 @@ class StateStore:
                 return r
         return None
 
+    def records_on(self, date: str) -> list[dict]:
+        return [r for r in self.load()["published"] if r["date"] == date]
+
     def history(self) -> list[dict]:
         return list(self.load()["published"])
 

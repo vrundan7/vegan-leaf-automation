@@ -20,7 +20,7 @@ import json
 import logging
 import os
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 from . import config
@@ -89,13 +89,34 @@ def cmd_preview(args) -> int:
     return EXIT_OK
 
 
+def _now() -> datetime:
+    return datetime.now(timezone.utc)
+
+
+def slot_blocked(store: StateStore, day: str, settings) -> str | None:
+    """Why no post is allowed right now (None = allowed).
+    Enforces POSTS_PER_DAY and MIN_HOURS_BETWEEN_POSTS (within the same Berlin day), so a
+    backup run shortly after a successful run never becomes an extra post."""
+    today = store.records_on(day)
+    if len(today) >= settings.posts_per_day:
+        ids = ", ".join(r["post_id"] for r in today)
+        return f"daily limit reached for {day} ({len(today)}/{settings.posts_per_day}: {ids})"
+    if today and settings.min_hours_between_posts > 0:
+        last = max(datetime.fromisoformat(r["published_at"]) for r in today)
+        hours = (_now() - last).total_seconds() / 3600
+        if hours < settings.min_hours_between_posts:
+            return (f"last post was {hours:.1f}h ago; MIN_HOURS_BETWEEN_POSTS is "
+                    f"{settings.min_hours_between_posts:g}h")
+    return None
+
+
 def _plan_today(args, settings) -> tuple[dict | None, object]:
     """Select + render today's post. Returns (plan, post) or (None, None) when already published."""
     store = StateStore(args.state)
     day = today_berlin(args.date)
-    done = store.published_on(day)
-    if done:
-        print(f"Already published for {day}: {done['post_id']} (media {done['media_id']}). Nothing to do.")
+    blocked = slot_blocked(store, day, settings)
+    if blocked:
+        print(f"Nothing to do: {blocked}.")
         return None, None
     posts = load_library(args.content)
     history = store.history()
@@ -165,9 +186,9 @@ def cmd_publish(args, client: InstagramClient | None = None, verify=verify_publi
     store = StateStore(args.state)
     with store.lock():
         day = today_berlin(args.date)
-        done = store.published_on(day)
-        if done:
-            print(f"Already published for {day}: {done['post_id']}. Skipping.")
+        blocked = slot_blocked(store, day, settings)
+        if blocked:
+            print(f"Skipping: {blocked}.")
             return EXIT_OK
         plan = _load_plan(day)
         if plan["post_id"] in store.published_ids():

@@ -51,7 +51,8 @@ def state_file(tmp_path):
 def isolated(tmp_path, monkeypatch, library_file, state_file):
     """CLI args + env wired to a temp dir; no .env loading, no real credentials."""
     for var in ("IG_USER_ID", "IG_ACCESS_TOKEN", "PUBLISH_ENABLED", "PAGES_BASE_URL", "IG_GRAPH_HOST",
-                "IG_API_VERSION", "MAX_CAPTION_HASHTAGS", "GITHUB_OUTPUT", "GITHUB_ACTIONS"):
+                "IG_API_VERSION", "MAX_CAPTION_HASHTAGS", "GITHUB_OUTPUT", "GITHUB_ACTIONS",
+                "POSTS_PER_DAY", "MIN_HOURS_BETWEEN_POSTS"):
         monkeypatch.delenv(var, raising=False)
     monkeypatch.setattr(config, "_load_dotenv", lambda *a, **k: None)
     run_dir = tmp_path / ".run"

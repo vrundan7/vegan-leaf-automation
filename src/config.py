@@ -41,6 +41,8 @@ class Settings:
     pages_base_url: str
     publish_enabled: bool
     max_caption_hashtags: int
+    posts_per_day: int = 1
+    min_hours_between_posts: float = 2.0
 
     @property
     def has_credentials(self) -> bool:
@@ -82,6 +84,15 @@ def load_settings(use_dotenv: bool = True) -> Settings:
         max_tags = int(env("MAX_CAPTION_HASHTAGS", "5"))
     except ValueError as exc:
         raise ConfigError("MAX_CAPTION_HASHTAGS must be an integer") from exc
+    try:
+        per_day = int(env("POSTS_PER_DAY") or "1")
+        gap = float(env("MIN_HOURS_BETWEEN_POSTS") or "2")
+    except ValueError as exc:
+        raise ConfigError("POSTS_PER_DAY must be an integer and MIN_HOURS_BETWEEN_POSTS a number") from exc
+    if not 1 <= per_day <= 10:
+        raise ConfigError("POSTS_PER_DAY must be between 1 and 10")
+    if not 0 <= gap <= 24:
+        raise ConfigError("MIN_HOURS_BETWEEN_POSTS must be between 0 and 24")
     return Settings(
         ig_user_id=(env("IG_USER_ID") or "").strip(),
         ig_access_token=(env("IG_ACCESS_TOKEN") or "").strip(),
@@ -90,4 +101,6 @@ def load_settings(use_dotenv: bool = True) -> Settings:
         pages_base_url=(env("PAGES_BASE_URL") or "").strip().rstrip("/"),
         publish_enabled=(env("PUBLISH_ENABLED") or "").strip().lower() == "true",
         max_caption_hashtags=max(0, min(max_tags, 30)),
+        posts_per_day=per_day,
+        min_hours_between_posts=gap,
     )
